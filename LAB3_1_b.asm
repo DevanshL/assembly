@@ -1,6 +1,3 @@
-;CS21B2022
-;Name:M.S.R.Pavan
-
 .model small  		  ;  CS21B2023 LINGAMANENI DEVANSH
 .stack 100h
 .data
